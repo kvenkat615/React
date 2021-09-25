@@ -1,11 +1,11 @@
 import React from 'react'
 
-function kkk() {
+function Headding() {
     return (
         <div>
-            
+            <h1>Headding</h1>
         </div>
     )
 }
 
-export default kkk
+export default Headding
